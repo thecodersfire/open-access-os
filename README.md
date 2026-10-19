@@ -25,8 +25,4 @@ The `open-access.svg` wallpaper is original. Open Access OS is an independent Ub
 See [FEATURES.md](FEATURES.md) for three local tools included for accessibility workflows.
 
 
-The installer also includes three purpose-specific applications: **GNOME Calendar, KeePassXC, GIMP**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
